@@ -21,13 +21,17 @@ The goal is to identify which roles are in demand, which are hardest to fill, an
 The project follows a structured data workflow:
 
 ```
-Raw Data            1. Cleaning & Normalization (Power Query + Excel)
-                    2. Modeling & Analysis (MySQL)
-                    3. Visualization (Power BI)
+1. Raw Data
+1. Cleaning & Normalization (Power Query + Excel)
+2. Modeling & Analysis (MySQL)
+3. Visualization (Power BI)
+
 ```
 
 **Cleaning & Normalization**: Performed in Power Query and Excel (handling inconsistencies, mapping position)
+
 **MySQL**: Used for data modeling and analytical views
+
 **PowerBI**: Used to build an interactive dashboard
 
 ---
